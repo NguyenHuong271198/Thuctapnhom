@@ -1,0 +1,14 @@
+D:\C#\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\C#\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\C#\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Form1.resources
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Form2.resources
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.fAccount_Profile.resources
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Book.resources
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.QL_Muontra.resources
+D:\C#\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Reader.resources
